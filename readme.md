@@ -2,7 +2,7 @@
 
 ![thumbnail](thumbnial.png)
 
-This is a factorio mod that allows you to combine science packs into higher-tier science packs. It is meant to enable early stress testing of in-process megabases, allowing you to fully use up your red science production (or red and green science production, and so on) before all sciences are finished.
+This is a factorio mod that allows you to combine science packs into higher-tier science packs. It is meant to enable early stress testing of in-process megabases, allowing you to fully use up your red science production (or red and green science production, and so on) before all science builds are finished.
 
 If you think that any recipe is too easy or too hard or if you'd like me to add compatibility for a mod, just open an issue and I'll probably add it
 

@@ -1,0 +1,12 @@
+{
+	"name": "science-combining",
+	"version": "0.1.0",
+	"title": "Science Combining",
+	"author": "What42Pizza",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0", 
+		"? space-exploration >= 0.5"
+	],
+	"description": "Adds recipes to combine sciences into higher-tier sciences, enabling you to do early stress-testing of in-progress megabases"
+}
